@@ -1,5 +1,3 @@
-package paquete;
-
 import java.util.*;
 
 public class KaprekarNumber {
